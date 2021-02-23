@@ -1,0 +1,8 @@
+asgiref
+certifi==2020.12.5
+Django==3.0.3
+django-filter
+djangorestframework
+pytz
+sqlparse
+wincertstore==0.2
